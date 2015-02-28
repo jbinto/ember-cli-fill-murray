@@ -1,5 +1,7 @@
 # Ember-cli-fill-murray
 
+Ember component for fill-murray placeholder images. From [Ember CLI 101](https://leanpub.com/ember-cli-101).
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
