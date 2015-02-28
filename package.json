@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-fill-murray",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "ember-cli-fill-murray-jbinto",
+  "version": "0.1.0",
+  "description": "{{fill-murray}} component, from ember-cli-101 book",
   "directories": {
     "doc": "doc",
     "test": "tests"
