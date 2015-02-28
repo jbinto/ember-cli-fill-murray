@@ -8,5 +8,5 @@ export default Ember.Component.extend({
   src: function() {
     var base = "http://www.fillmurray.com/";
     return base + this.get('width') + '/' + this.get('height');
-  }.computed('height', 'width');
+  }.computed('height', 'width')
 });

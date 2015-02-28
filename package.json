@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-fill-murray-jbinto",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "{{fill-murray}} component, from ember-cli-101 book",
   "directories": {
     "doc": "doc",
